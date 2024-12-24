@@ -66,6 +66,7 @@ todo-list-app
 ## API Endpoints
 - `GET /todos`: Retrieve the list of todos.
 - `POST /todos`: Create a new todo item.
+- `PUT /todos/:id`: Update a todo item by ID.
 - `DELETE /todos/:id`: Delete a todo item by ID.
 
 ## Contributing
